@@ -19,7 +19,7 @@
 
 - 📌 Skills: HTML, CSS, JavaScript, PHP, UI/UX, SQL and Scrum
 - ✨ Soft Skills: Creative, Reliable, Organized, Team Player, Fast learner & Motivated
-- 🌱 I’m currently learning more about ReactJS, UI/UX & Web Accessibility
+- 🌱 I’m currently learning more about ReactJS, Python, UI/UX & Web Accessibility
 - ⚡ Fun fact: I'm an electrotechnical technician
 - :heartbeat: I'm passionate about movies and music. Maybe that's why I'm in love with visual stuff and how I can make people feel through that
 
