@@ -2,19 +2,19 @@
   <h1 align="center"> Dynnah Hanna	</h1>
 <p align="center"> 
   <a href="https://github.com/dynnah"> 
-    <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=white&link=https://github.com/felipersdf" alt="Github badge" />
+    <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=white&link="https://github.com/dynnah" alt="Github badge" />
   </a>
   &nbsp; 
   <a href="https://www.linkedin.com/in/dynnah-hanna-1a3566135/"> 
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipersdf/" alt="Linkedin badge" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dynnah/" alt="Linkedin badge" />
   &nbsp; 
   <a href="mailto:eudynnah@gmail.com"> 
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:felipefsr07@gmail.com" alt="Gmail badge" />
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:eudynnah@gmail.com" alt="Gmail badge" />
   </a>
 </p>
 
 <h3 align="center">
- Hi There! 👋
+ Hi There! <img src="https://emojis.slackmojis.com/emojis/images/1588262851/8816/meow_bread_appear.gif?1588262851" width="30"/>
 </h3>
 
 - 📌 Skills: HTML, CSS, JavaScript, PHP, UI/UX, SQL and Scrum
